@@ -22,11 +22,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Configure Agents
+- Configure Users
+- Configure SLA
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -34,7 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Before completing the multiple objectives of post-installation of osTicket, you must understand the difference between the Agent and the Admin panel which is easy enough just by looking at their names.  The Admin panel is allowed unrestricted access to the setup, configuration, and management of the helpdesk environment you're working within. In contrast, agents have limited access to any settings regarding their osTicket and mainly focus on the day-to-day, resolving tickets around the parameters set by admins.
 </p>
 <br />
 
