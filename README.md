@@ -31,58 +31,52 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 
-1.) Firstly, understand the difference between the Agent and the Admin panel. The Admin panel is allowed unrestricted access to the setup, configuration, and management of the helpdesk environment you're working within. In contrast, agents have limited access to any settings regarding their osTicket and mainly focus on the day-to-day/resolving of tickets around the parameters set by admins.
+1.) The Agent vs. the Admin panel. The Admin panel is allowed unrestricted access to the helpdesk environment's setup, configuration, and management. The Agent panel mainly focuses on the day-to-day/resolution of tickets.
 <p>
 <img width="640" alt="Screenshot 2025-03-07 at 4 04 10 PM" src="https://github.com/user-attachments/assets/be5f885e-454e-443b-b322-5e579415866c" />
 </p>
 
 </p>
-2.)  Configuring roles within osTicket requires you to be in the Admin panel--> agents--> roles.  To create a new role, you would then click "Add New Role", in this tab, name the role and select the permissions you want that role to have.  Click "Add Role" to finish and put new role into effect.
+2.)  Configuring Roles within osTicket, Admin panel-> Agents-> Roles-> click "Add New Role".
 <p>
-
-ex. Admin
-
-<img width="640" alt="Screenshot 2025-03-07 at 1 56 16 PM" src="https://github.com/user-attachments/assets/55f16da2-2270-44b2-bce6-f2a6b3222b7e" />
+</p>
+<img width="961" alt="Screenshot 2025-03-20 at 3 31 59 PM" src="https://github.com/user-attachments/assets/f409474b-31d9-454f-9818-0e40ec40dda2" />
 
 </p>
+Name the role.
 <img width="640" alt="Screenshot 2025-03-07 at 3 45 15 PM" src="https://github.com/user-attachments/assets/2ede6cf4-7031-456c-8ca9-04891e684cce" />
 
 </p>
+Select the permissions for the role, click "Add Role" to finish, and put the new role into effect.
 <img width="640" alt="Screenshot 2025-03-07 at 2 21 13 PM" src="https://github.com/user-attachments/assets/07643d53-de3b-4f75-9417-6fad470a3f6a" />
-
+<p>ex. Admin
 <p>
 
-3.)  Next is to configure departments, go to the Admin panel--> agents--> departments.  Click "Add New Department", in this tab you set up the settings for the department.  Putting in the parent department, naming the department, defining the department's SLA/schedule, etc. are examples of settings that can be changed when creating a new department.  Click "Create Dept" to finish.
+3.)  Configure Departments within osTicket, Admin panel-> Agents-> Department-> click "Add New Department".
 
-ex. Support
 <p>
-<img width="640" alt="Screenshot 2025-03-07 at 4 21 54 PM" src="https://github.com/user-attachments/assets/fb777578-48c6-4249-8be6-955e410004fe" />
+<img width="958" alt="Screenshot 2025-03-20 at 3 32 19 PM" src="https://github.com/user-attachments/assets/ba5ebe8f-33c3-48c9-a296-bdcf876271d7" />
 <p>
+Configure the preferred settings for the department.
 <img width="640" alt="Screenshot 2025-03-07 at 5 00 58 PM" src="https://github.com/user-attachments/assets/66c041aa-7583-4a46-b494-a752fd0c4702" />
+  
+Click "Create Dept" to finish.
+<p>
 <img width="432" alt="Screenshot 2025-03-07 at 5 56 03 PM" src="https://github.com/user-attachments/assets/21d276ad-11f4-4f96-b742-28315f7bf31c" />
+<p>ex. Support
 
-
-
-
-
-
-
-
-</p>
+4.) Configure Teams within osTicket, Admin panel-> Agents-> Teams-> click "Add New Team".
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="960" alt="Screenshot 2025-03-20 at 3 46 46 PM" src="https://github.com/user-attachments/assets/e3bb4b26-d791-4aac-9ac1-08470fa028b2" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Name the team and move to members.
+<img width="640" alt="Screenshot 2025-03-20 at 3 52 36 PM" src="https://github.com/user-attachments/assets/c962bfa2-d5ab-4e4e-b029-0af5b0dec010" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Add agents as members to the team and once finished click "Create Team".
+<img width="959" alt="Screenshot 2025-03-20 at 4 07 45 PM" src="https://github.com/user-attachments/assets/8fe609a2-5c46-4c82-a8d7-5eed7ee2447a" />
 </p>
 <br />
