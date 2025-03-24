@@ -44,11 +44,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 Name the role.
-<img width="640" alt="Screenshot 2025-03-07 at 3 45 15 PM" src="https://github.com/user-attachments/assets/2ede6cf4-7031-456c-8ca9-04891e684cce" />
+<img width="640" alt="Screenshot 2025-03-24 at 4 26 46 PM" src="https://github.com/user-attachments/assets/0ab59602-0db6-4f8f-b022-bb17ed3d0855" />
 
 </p>
 Select the permissions for the role, click "Add Role" to finish, and put the new role into effect.
-<img width="640" alt="Screenshot 2025-03-07 at 2 21 13 PM" src="https://github.com/user-attachments/assets/07643d53-de3b-4f75-9417-6fad470a3f6a" />
+<img width="640" alt="Screenshot 2025-03-24 at 4 28 45 PM" src="https://github.com/user-attachments/assets/c9acf535-3f7b-49b4-8adc-11716b55ba6c" />
+
 <p>ex. Admin
 <p>
 
@@ -64,10 +65,8 @@ Click "Create Dept" to finish.
 <p>
 <img width="432" alt="Screenshot 2025-03-07 at 5 56 03 PM" src="https://github.com/user-attachments/assets/21d276ad-11f4-4f96-b742-28315f7bf31c" />
 <p>ex. Support
-
+<p>
 4.) Configure Teams within osTicket, Admin panel-> Agents-> Teams-> click "Add New Team".
-<br />
-
 <p>
 <img width="960" alt="Screenshot 2025-03-20 at 3 46 46 PM" src="https://github.com/user-attachments/assets/e3bb4b26-d791-4aac-9ac1-08470fa028b2" />
 </p>
@@ -76,7 +75,28 @@ Name the team and move to members.
 <img width="640" alt="Screenshot 2025-03-20 at 3 52 36 PM" src="https://github.com/user-attachments/assets/c962bfa2-d5ab-4e4e-b029-0af5b0dec010" />
 </p>
 <p>
-Add agents as members to the team and once finished click "Create Team".
+Add agents as team members and click "Create Team" once finished.
 <img width="959" alt="Screenshot 2025-03-20 at 4 07 45 PM" src="https://github.com/user-attachments/assets/8fe609a2-5c46-4c82-a8d7-5eed7ee2447a" />
 </p>
 <br />
+5.) Configure Agents within osTicket, Admin panel-> Agents-> Agents-> click "Add New Agent".
+<p>
+<img width="959" alt="Screenshot 2025-03-24 at 3 58 01 PM" src="https://github.com/user-attachments/assets/262edc7b-3071-4678-9453-9e79f1d47924" />
+</p>
+<p>
+Fill out personal information and create a user name for the agent.
+<img width="640" alt="Screenshot 2025-03-24 at 4 09 33 PM" src="https://github.com/user-attachments/assets/9cf0ae34-a661-4385-ba82-6d83b72e7547" />
+<p>
+Define the agent's department and role.
+<img width="640" alt="Screenshot 2025-03-24 at 4 13 38 PM" src="https://github.com/user-attachments/assets/d800a3c1-1c45-4677-804c-369fe742bb32" />
+<p>
+Set permissions.
+<img width="640" alt="Screenshot 2025-03-24 at 4 49 43 PM" src="https://github.com/user-attachments/assets/3c488710-b955-49f1-99c3-74ae7381d6d7" />
+<p>
+Assign to a team and click "Create" to create a new agent profile.
+<img width="640" alt="Screenshot 2025-03-24 at 4 50 45 PM" src="https://github.com/user-attachments/assets/3a3bb2d9-d1b4-43e2-bcf3-c2530e4baf93" />
+
+
+
+
+
