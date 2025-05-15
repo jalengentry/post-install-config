@@ -116,6 +116,34 @@ Fill out user info and click "Add User" to create a new user profile.
 <p>
 <img width="640" alt="Screenshot 2025-04-06 at 2 44 31 PM" src="https://github.com/user-attachments/assets/4d3a461e-8210-4d39-83d4-b3a43543ec9b" />
 
+Name the SLA, adjust the grace period, and the schedule for tickets, and add a new plan.
+
+<img width="640" alt="Screenshot 2025-05-15 at 5 22 10 PM" src="https://github.com/user-attachments/assets/6a2d0908-d259-4ff3-bfcb-463375f73f25" />
+
+ex. Severity-A, 1 hour, 24/7
+<p>
+8. Configuring Help Topics within osTicket, Admin panel-> Manage-> Help Topics-> click "Add New Help Topic".
+<p>
+<img width="640" alt="Screenshot 2025-05-15 at 5 58 48 PM" src="https://github.com/user-attachments/assets/c371bed9-378d-4375-a911-9fdf1c6b65e3" />
+
+Name the topic and assign it to a parent topic.
+
+<img width="638" alt="Screenshot 2025-05-15 at 5 50 53 PM" src="https://github.com/user-attachments/assets/44836afb-bc08-4c60-931a-6a6ff62c2db0" />
+
+You can also assign Help Topics different SLA's, Priorities, etc.
+
+<img width="640" alt="Screenshot 2025-05-15 at 5 52 21 PM" src="https://github.com/user-attachments/assets/ea87ed4e-7447-4c5f-a19d-726f92b8a338" />
+
+Click add topic
+
+<img width="471" alt="Screenshot 2025-05-15 at 6 08 32 PM" src="https://github.com/user-attachments/assets/9e05e8c5-7eab-48be-8f11-2d80240cbac8" />
+
+ex. Personal Computer Issues
+
+
+
+
+
 
 
 
