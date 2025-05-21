@@ -103,7 +103,7 @@ Assign to a team and click "Create" to create a new agent profile.
 <img width="640" alt="Screenshot 2025-03-24 at 4 50 45 PM" src="https://github.com/user-attachments/assets/3a3bb2d9-d1b4-43e2-bcf3-c2530e4baf93" />
 <p>ex. Jalen Gentry
 <p></p>
-6. Configuring Users within osTicket, Agent panel-> Users-> click "Add User".
+6.) Configuring Users within osTicket, Agent panel-> Users-> click "Add User".
 <p>
 <img width="640" alt="Screenshot 2025-04-06 at 2 18 08 PM" src="https://github.com/user-attachments/assets/8bd83146-590a-4458-a440-0539cd4ca531" />
 
@@ -112,7 +112,7 @@ Fill out user info and click "Add User" to create a new user profile.
 <img width="640" alt="Screenshot 2025-04-06 at 2 28 43 PM" src="https://github.com/user-attachments/assets/d0568faa-f1b5-4c95-851d-bac157d1f493" />
 <p>ex. Karen
 <p>
-7. Configuring SLA within osTicket, Admin panel-> Manage-> SLA-> click "Add New SLA Plan".
+7.) Configuring SLA within osTicket, Admin panel-> Manage-> SLA-> click "Add New SLA Plan".
 <p>
 <img width="640" alt="Screenshot 2025-04-06 at 2 44 31 PM" src="https://github.com/user-attachments/assets/4d3a461e-8210-4d39-83d4-b3a43543ec9b" />
 
@@ -122,7 +122,7 @@ Name the SLA, adjust the grace period, and the schedule for tickets, and add a n
 
 ex. Severity-A, 1 hour, 24/7
 <p>
-8. Configuring Help Topics within osTicket, Admin panel-> Manage-> Help Topics-> click "Add New Help Topic".
+8.) Configuring Help Topics within osTicket, Admin panel-> Manage-> Help Topics-> click "Add New Help Topic".
 <p>
 <img width="640" alt="Screenshot 2025-05-15 at 5 58 48 PM" src="https://github.com/user-attachments/assets/c371bed9-378d-4375-a911-9fdf1c6b65e3" />
 
@@ -130,7 +130,7 @@ Name the topic and assign it to a parent topic.
 
 <img width="638" alt="Screenshot 2025-05-15 at 5 50 53 PM" src="https://github.com/user-attachments/assets/44836afb-bc08-4c60-931a-6a6ff62c2db0" />
 
-You can also assign Help Topics different SLA's, Priorities, etc.
+You can also assign Help Topics, different SLA's, Priorities, etc.
 
 <img width="640" alt="Screenshot 2025-05-15 at 5 52 21 PM" src="https://github.com/user-attachments/assets/ea87ed4e-7447-4c5f-a19d-726f92b8a338" />
 
